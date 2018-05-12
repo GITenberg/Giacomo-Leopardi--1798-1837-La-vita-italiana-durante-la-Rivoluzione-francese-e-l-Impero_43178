@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41750'
     url: http://www.gutenberg.org/2009/agents/41750
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43178#Giacomo-Leopardi--1798-1837-La-vita-italiana-durante-la-Rivoluzione-francese-e-l-Impero
 gutenberg_bookshelf: IT Storia
 gutenberg_issued: '2013-07-10'
 gutenberg_type: Text
